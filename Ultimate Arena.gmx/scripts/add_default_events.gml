@@ -58,6 +58,14 @@ defaultE[6,4] = "$1 is knawed in half by a rabbit.";
 defaultE[6,5] = "$1 gets ran over by an angry deer.";
 defaultE[6,6] = "$1 dies trying to pet a squirrel.";
 
+defaultE[7,0] = "Zombie Horde";
+defaultE[7,1] = "Hungry zombies emerge from the ground!";
+defaultE[7,2] = 10;
+defaultE[7,3] = 3;
+defaultE[7,4] = "$1 was devoured by a zombie.";
+defaultE[7,5] = "$1 died being ripped apart by a group of the undead.";
+defaultE[7,6] = "$1 was brutally decapitated by a large zombie.";
+
 
 for(i = 0;i < 7;i++)
 {
